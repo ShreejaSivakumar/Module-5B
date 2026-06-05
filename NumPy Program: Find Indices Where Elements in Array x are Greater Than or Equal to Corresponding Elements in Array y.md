@@ -31,7 +31,10 @@ print("x >= y condition:", condition)
 print("Indices where x >= y:", indices[0])
 ```
 <img width="533" height="281" alt="Screenshot 2026-06-05 210208" src="https://github.com/user-attachments/assets/ef17de85-2a5d-4f74-b437-adf5bbda29fd" />
+
+
 ## Output
+
 <img width="505" height="138" alt="Screenshot 2026-06-05 210213" src="https://github.com/user-attachments/assets/ad39c549-9b7e-45ff-8c03-6dfe819c7b98" />
 
 ## Result
